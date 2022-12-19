@@ -1,1 +1,1 @@
-# cursor-linux
+best cursor for windows and linux
